@@ -1,0 +1,29 @@
+.main{
+    background: #ef2;
+}
+.container{
+    width: 85%;
+    margin: auto;
+    padding: 20px 0;
+
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.nav>a {
+	color: #fff;
+	text-decoration: none;
+}
+.active{
+    font-size: 28px;
+    background: #ddd;
+}
+

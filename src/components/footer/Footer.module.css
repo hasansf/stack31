@@ -1,0 +1,13 @@
+.footer_area{
+    background: #8f3232;
+    color: white;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+.footer_area ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
